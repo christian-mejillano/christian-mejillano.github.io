@@ -1,0 +1,28 @@
+header {
+    width: 100vw;
+}
+
+#quote {
+    font-size: 30px;
+}
+
+#title {
+    text-align: center;
+}
+
+#music {
+    width: 25vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    text-align: center;
+}
+
+#socials {
+    display: flex;
+    justify-content:space-around;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
