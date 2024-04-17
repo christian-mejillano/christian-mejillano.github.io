@@ -40,5 +40,14 @@ footer {
 #frank-ocean{
     max-width: 75vw;
     margin: 200px auto;
+    transition: transform 0.3s ease-in-out;
+    -webkit-filter: brightness(100%);
+	filter: brightness(100%);
+}
+
+#frank-ocean:hover{
+    transform: translateY(-10px);
+    -webkit-filter: brightness(50%);
+	filter: brightness(50%);
 }
 
