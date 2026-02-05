@@ -1,2 +1,2 @@
-# christian-mejillano.github.io
-a visual media piece collating images, videos and music
+# custom-connections
+a website for custom connections
